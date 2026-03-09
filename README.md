@@ -101,7 +101,7 @@ cp .env
 Open `.env` and fill in your API Gateway URL:
 
 ```
-VITE_API_BASE_URL=https://YOUR_API_ID.execute-api.us-east-1.amazonaws.com/prod
+VITE_API_BASE_URL=**YOUR API URL**
 ```
 
 ### 3. Install dependencies
